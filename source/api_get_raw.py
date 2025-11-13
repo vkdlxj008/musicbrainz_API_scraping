@@ -1,7 +1,7 @@
 import os, requests, time, math, pandas as pd
 from requests.adapters import HTTPAdapter, Retry
 
-USER_AGENT = "Stat386Project/1.0 (akfmdktm@gmail.com)"
+USER_AGENT = "Stat386Project/1.0 (you@example.com)"
 BASE = "https://musicbrainz.org/ws/2"
 SLEEP = 1.2
 
