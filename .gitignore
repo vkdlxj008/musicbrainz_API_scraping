@@ -1,0 +1,14 @@
+.venv/
+venv/
+
+__pycache__/
+*.pyc
+
+.ipynb_checkpoints/
+
+.env
+
+data/*.png
+data/*.csv
+
+mb_cache.sqlite
