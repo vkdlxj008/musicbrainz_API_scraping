@@ -48,10 +48,7 @@ musicbrainz_API_scraping/
 ### 1️⃣ Create Virtual Environment (Recommended)
 ```bash
 python -m venv .venv
-# Activate environment
-# Windows:
 .venv\Scripts\activate
-# macOS/Linux:
 source .venv/bin/activate
 ```
 
